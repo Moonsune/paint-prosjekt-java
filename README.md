@@ -1,7 +1,7 @@
 # 🎨 Java Paint App
 
 Et lite tegneprogram laget med Java.
-# Dette prosjektet ble laget som en del av en skoleoppgave.
+- Dette prosjektet ble laget som en del av en skoleoppgave.
 
 ## Funksjoner
 - Velg figur, tekst eller peker
